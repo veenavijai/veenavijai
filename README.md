@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!
+
+- 🔭 Currently working on Hollywood movie audio and subtitles at [SAIL](https://sail.usc.edu/).
+- 🌱 I’m learning about ML System Design. And trying to make my website more aesthetic. (As of September 2021)
+- :books: I recently graduated with a Master's in Electrical Engineering from USC.
+- :mag: I'm on the lookout for full-time SWE/ML positions in audio/speech/NLP in the US.
+- 📫 How to reach me: You can email me on <veena.vijai42@gmail.com>.
+- 😄 Pronouns: she/her
 
 <!--
 **veenavijai/veenavijai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
