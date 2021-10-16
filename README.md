@@ -1,7 +1,7 @@
 ### Hello, I'm Veena!
 
 - 🔭 Right now, I am working on Hollywood movie audio and subtitles at [SAIL](https://sail.usc.edu/).
-- 🌱 I’m learning about ML System Design. And trying to make my website more aesthetic. (As of September 2021)
+- 🌱 I'm teaching myself about build systems and planning to extend my Room Impulse Response project with C++! Also committing to finishing and publishing my website by end of October 2021.
 - :books: I recently graduated with a Master's in Electrical Engineering from USC.
 - :mag: I'm on the lookout for full-time SWE/ML positions in audio/speech/NLP in the US.
 - 📫 How to reach me: You can email me on <veena.vijai42@gmail.com>.
