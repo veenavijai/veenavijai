@@ -1,10 +1,10 @@
 ### Hello, I'm Veena!
 
-- 🔭 Right now, I am working on Hollywood movie audio and subtitles at [SAIL](https://sail.usc.edu/).
-- 🌱 I'm teaching myself about build systems and planning to extend my Room Impulse Response project with C++! Also committing to finishing and publishing my website by end of October 2021.
-- :books: I recently graduated with a Master's in Electrical Engineering from USC.
-- :mag: I'm on the lookout for full-time SWE/ML positions in audio/speech/NLP in the US.
-- 📫 How to reach me: You can email me on veena.vijai42 at gmail dot com.
+- 🌱 Right now, I am looking for an open-source climate tech or ed tech project to build from scratch or contribute to.
+- ⚡: I see myself as a software engineer making a positive social impact on the world. I am open to full-time roles in the US!
+- 👯: I have 3 years of experience personalizing music for Amazon customers.
+- :books: I earned a Master's in Electrical & Computer Engineering from USC and a Bachelor's in Electrical & Electronics Engineering from BITS Pilani, Goa.
+- 📫 How to reach me: You can email me at veena.vijai42 at gmail dot com.
 - 😄 Pronouns: she/her
 
 <!--
