@@ -1,6 +1,6 @@
 ### Hello, I'm Veena!
 
-- 🌱 Right now, I am looking for an open-source climate tech or ed tech project to build from scratch or contribute to.
+- 🌱 Right now, I am building a custom database index and exploring different data formats like parquet, JSON, and TIFF.
 - ⚡: I see myself as a software engineer making a positive social impact on the world. I am open to full-time roles in the US!
 - 👯: I have 3 years of experience personalizing music for Amazon customers.
 - :books: I earned a Master's in Electrical & Computer Engineering from USC and a Bachelor's in Electrical & Electronics Engineering from BITS Pilani, Goa.
